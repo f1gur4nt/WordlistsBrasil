@@ -1,2 +1,2 @@
 # WordlistsBrasil
-Algumas wordlists 100% brasileiras para ataques de bruteforce.
+Algumas wordlists 100% brasileiras para dictionary attacks
